@@ -9,3 +9,4 @@ n = int(input('Informe a quantidade de parcelas: '))
 j = (c*i*n)/100
 # Saída
 print(f'Juros: R$ {j}')
+#----
